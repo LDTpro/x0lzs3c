@@ -1,0 +1,14 @@
+E:\Tools-Ebook\malware\malware\malwares\Binaries\ShellLocker\ShellLocker\bin\Release\x0lzs3c.exe.config
+E:\Tools-Ebook\malware\malware\malwares\Binaries\ShellLocker\ShellLocker\bin\Release\x0lzs3c.exe
+E:\Tools-Ebook\malware\malware\malwares\Binaries\ShellLocker\ShellLocker\bin\Release\x0lzs3c.pdb
+E:\Tools-Ebook\malware\malware\malwares\Binaries\ShellLocker\ShellLocker\bin\Release\x0lzs3c.xml
+E:\Tools-Ebook\malware\malware\malwares\Binaries\ShellLocker\ShellLocker\obj\Release\ShellLocker.vbprojResolveAssemblyReference.cache
+E:\Tools-Ebook\malware\malware\malwares\Binaries\ShellLocker\ShellLocker\obj\Release\x0lzs3c.Form1.resources
+E:\Tools-Ebook\malware\malware\malwares\Binaries\ShellLocker\ShellLocker\obj\Release\x0lzs3c.Form2.resources
+E:\Tools-Ebook\malware\malware\malwares\Binaries\ShellLocker\ShellLocker\obj\Release\x0lzs3c.Form3.resources
+E:\Tools-Ebook\malware\malware\malwares\Binaries\ShellLocker\ShellLocker\obj\Release\x0lzs3c.Form4.resources
+E:\Tools-Ebook\malware\malware\malwares\Binaries\ShellLocker\ShellLocker\obj\Release\x0lzs3c.Resources.resources
+E:\Tools-Ebook\malware\malware\malwares\Binaries\ShellLocker\ShellLocker\obj\Release\ShellLocker.vbproj.GenerateResource.Cache
+E:\Tools-Ebook\malware\malware\malwares\Binaries\ShellLocker\ShellLocker\obj\Release\x0lzs3c.exe
+E:\Tools-Ebook\malware\malware\malwares\Binaries\ShellLocker\ShellLocker\obj\Release\x0lzs3c.xml
+E:\Tools-Ebook\malware\malware\malwares\Binaries\ShellLocker\ShellLocker\obj\Release\x0lzs3c.pdb
