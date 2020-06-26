@@ -1,1 +1,1 @@
-X0LZS3C
+Ransomeware X0LZS3C
